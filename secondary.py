@@ -1,12 +1,28 @@
-import time
-import selenium
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+import time
 
+#access the website
 driver = webdriver.Chrome()
+driver.get("https://www.pracuj.pl/")
 
-driver.get("https://www.pracuj.pl/praca/programista-bi-warszawa-burakowska-14,oferta,1002964067")
+#deal with popups
+cookies = driver.find_element(By.CSS_SELECTOR, '[data-test="button-submitCookie"]')
+cookies.click()
+print('button clicked')
 
-print(driver.title)
-time.sleep(5)
+#insert the info
+search = driver.find_element(By.CLASS_NAME, 'core_fhefgxl')
+search.send_keys('data analyst warsaw')
+print('info inserted')
+search.button = driver.find_element(By.CLASS_NAME, 'core_b1fqykql')
+search.button.click()
+print('button clicked')
+
+
+
+
+time.sleep(10)
 driver.quit()
 

@@ -1,8 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-def scan_requirements(href):
-    print("Done")
+
 
 
 def study_market(url):
@@ -12,7 +11,7 @@ def study_market(url):
     for i in range(len(a_tags)):
         href = a_tags[i]['href']
         print(href)
-
+#make a list with the href's and run a loop with the scan function over the lsit
 
     '''url = href
 
