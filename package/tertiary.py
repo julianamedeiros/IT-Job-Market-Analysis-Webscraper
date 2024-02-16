@@ -22,10 +22,10 @@ def scan(offer_list):
 
         #make a dictionary for the offer
         job_dict = {
-        'job_title': job_title,
-        'level': level,
-        'tecnologies' : tecnologies
+        'job_title': [job_title],
+        'level': [level],
+        'tecnologies' : [tecnologies]
         }
         job_dict_list.append(job_dict)
         
-    print(job_dict_list)
+    return job_dict_list
