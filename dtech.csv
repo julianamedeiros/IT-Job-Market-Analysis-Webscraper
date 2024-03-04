@@ -1,0 +1,71 @@
+tech_id,technologies
+0,SQL
+1,Python
+2,AWS
+3,Microsoft Azure
+4,Snowflake Data Cloud
+5,R
+6,MATLAB
+7,C++
+8,SAS
+9,
+10,SAP HANA
+11,Sigma
+12,Microsoft Excel
+13,GitHub
+14,Postman
+15,Insomnia
+16,Alteryx
+17,Splunk
+18,Grafana
+19,Apache Spark
+20,Java
+21,BI
+22,SAP
+23,DWH
+24,PowerShell
+25,.NET
+26,Looker
+27,Google BigQuery
+28,Power BI
+29,Jira
+30,Confluence
+31,Azure SQL
+32,T-SQL
+33,ETL
+34,Data Warehousing
+35,SSRS
+36,SQL Reporting Services
+37,Microsoft Power BI
+38,SQL Integration Services
+39,VBA
+40,PySpark/Pandas
+41,Numpy
+42,Scikit-learn
+43,Tensorflow/PyTorch
+44,Databricks/Jupyter
+45,Git
+46,Moody's Analytics
+47,RiskPro
+48,QRM
+49,Oracle
+50,4GL
+51,Google Cloud Platform
+52,Bash
+53,Microsoft SQL Server
+54,PostgreSQL
+55,CI/CD
+56,Data Lake
+57,ETL/ELT
+58,Azure DevOps
+59,Databricks
+60,Apache Airflow
+61,MySQL
+62,Teradata
+63,PL/SQL
+64,Scala
+65,Tableau
+66,Microsoft SSIS
+67,DevOps
+68,Jenkins
+69,Cloudflare

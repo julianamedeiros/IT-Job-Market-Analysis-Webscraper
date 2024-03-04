@@ -16,16 +16,17 @@ def scan(offer_list):
         div = offer_soup.find('div', {'data-test' : 'sections-benefit-employment-type-name-text'})
         level = div.getText()
 
-        #to find tecnologies
+        #to find technologies
         p_tags = offer_soup.find_all('p', {'data-test': 'text-technology-name'})
-        tecnologies = [i.getText() for i in p_tags]
+        technologies = [i.getText() for i in p_tags]
 
         #make a dictionary for the offer
         job_dict = {
-        'job_title': [job_title],
-        'level': [level],
-        'tecnologies' : [tecnologies]
+        'job_title': job_title,
+        'level': level,
+        'technologies' : technologies
         }
         job_dict_list.append(job_dict)
         
+
     return job_dict_list

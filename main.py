@@ -1,13 +1,13 @@
-from package import primary
-from package import secondary
-from package import tertiary
-from package import datavisualization
+from package import webcrawler
+from package import urlparsing
+from package import webscrapper
+from package import dataprocessing
 
 def main():
-    url = primary.search_job('data engineer')
-    offer_list = secondary.list_offer(url)
-    job_dict_list = tertiary.scan(offer_list)
-    datavisualization.table(job_dict_list)
+    url = webcrawler.search_job('data analyst')
+    offer_list = urlparsing.list_offer(url)
+    job_dict_list = webscrapper.scan(offer_list)
+    dataprocessing.star_scheme(job_dict_list)
 
 
 if __name__ == "__main__":
