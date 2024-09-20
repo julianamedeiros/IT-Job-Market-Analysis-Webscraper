@@ -1,0 +1,113 @@
+offer_id,job_title,level,technologies
+0,Expert IT Analyst,expert,SQL
+0,Expert IT Analyst,expert,Confluence
+1,Kierownik salonu odzieżowego,kierownik / koordynator,
+2,Analityk / Analityczka Sprzedaży,specjalista (Mid / Regular),
+3,TTS Business Controller,"specialist (Mid / Regular), junior specialist (Junior)",
+4,Business Finance Analyst - BU Cash Out (f/m/d),specialist (Mid / Regular),
+5,Key Account Manager,specjalista (Mid / Regular),
+6,Data Analyst with German,specialist (Mid / Regular),
+7,Inżynier – Analityk Danych,"specjalista (Mid / Regular), młodszy specjalista (Junior)",
+8,Specjalista ds. analiz i wizualizacji danych,specjalista (Mid / Regular),
+9,Data Engineer,specjalista (Mid / Regular),SQL
+9,Data Engineer,specjalista (Mid / Regular),Spark
+9,Data Engineer,specjalista (Mid / Regular),Databricks
+10,Analityk Sprzedaży,specjalista (Mid / Regular),
+11,Digital Strategy Analyst,junior specialist (Junior),
+12,Investment Analyst,"specjalista (Mid / Regular), młodszy specjalista (Junior)",
+13,Analityk Systemów Raportowych,młodszy specjalista (Junior),
+14,Sr Revenue Assurance Analyst,senior specialist (Senior),
+15,Total Rewards Analyst,specialist (Mid / Regular),
+16,Senior Technical and Reporting Analyst,senior specialist (Senior),SQL
+16,Senior Technical and Reporting Analyst,senior specialist (Senior),Python
+16,Senior Technical and Reporting Analyst,senior specialist (Senior),SharePoint
+17,Młodszy specjalista ds. analiz sprzedaży z j. niemieckim,młodszy specjalista (Junior),
+18,Business Analyst with ALM,specialist (Mid / Regular),Python
+19,IT Business Analyst,specialist (Mid / Regular),
+20,IT Analyst,specialist (Mid / Regular),SQL
+21,Senior IT Business Analyst,starszy specjalista (Senior),BPMN
+21,Senior IT Business Analyst,starszy specjalista (Senior),UML
+22,Analityk Systemów IT,specjalista (Mid / Regular),Enterprise Architect
+22,Analityk Systemów IT,specjalista (Mid / Regular),UML
+22,Analityk Systemów IT,specjalista (Mid / Regular),BPMN
+22,Analityk Systemów IT,specjalista (Mid / Regular),YAML
+22,Analityk Systemów IT,specjalista (Mid / Regular),JIRA
+22,Analityk Systemów IT,specjalista (Mid / Regular),Confluence
+22,Analityk Systemów IT,specjalista (Mid / Regular),SQL
+22,Analityk Systemów IT,specjalista (Mid / Regular),SOAP
+22,Analityk Systemów IT,specjalista (Mid / Regular),REST
+23,BI Developer,"specjalista (Mid / Regular), młodszy specjalista (Junior)",
+24,Power BI Developer,specjalista (Mid / Regular),Power BI
+24,Power BI Developer,specjalista (Mid / Regular),SQL
+24,Power BI Developer,specjalista (Mid / Regular),DAX
+24,Power BI Developer,specjalista (Mid / Regular),Oracle Exdata
+24,Power BI Developer,specjalista (Mid / Regular),PL/SQL
+25,Power BI Developer,"specjalista (Mid / Regular), starszy specjalista (Senior)",Microsoft Power BI
+25,Power BI Developer,"specjalista (Mid / Regular), starszy specjalista (Senior)",Microsoft Azure
+25,Power BI Developer,"specjalista (Mid / Regular), starszy specjalista (Senior)",SQL
+25,Power BI Developer,"specjalista (Mid / Regular), starszy specjalista (Senior)",Jira
+25,Power BI Developer,"specjalista (Mid / Regular), starszy specjalista (Senior)",Confluence
+26,Financial Analyst,specialist (Mid / Regular),
+27,Finance Analyst,specialist (Mid / Regular),
+28,Analityk finansowy,specjalista (Mid / Regular),
+29,Finance Analyst - Reporting & Analytics,specialist (Mid / Regular),
+30,Specjalista ds. modelowania i analiz w Biurze Metodologii Ryzyka Kredytowego,specjalista (Mid / Regular),
+31,Techniczny Analityk Biznesowy,młodszy specjalista (Junior),SQL
+32,Analityk systemowy ds. usług dodatkowych/ Ancillary Services System Analyst,"specjalista (Mid / Regular), młodszy specjalista (Junior)",
+33,"Senior Associate / Assistant Manager - Deal Advisory Strategy (Profil: strategia biznesowa, kreowanie wartości, analizy strategiczne)","specjalista (Mid / Regular), starszy specjalista (Senior)",
+34,Inżynier Elektronik / Serwisant,"specjalista (Mid / Regular), młodszy specjalista (Junior)",Linux
+34,Inżynier Elektronik / Serwisant,"specjalista (Mid / Regular), młodszy specjalista (Junior)",C/C++
+35,IT Support / Business Analyst,specialist (Mid / Regular),SQL
+35,IT Support / Business Analyst,specialist (Mid / Regular),Excel
+36,Junior Portfolio Analyst,junior specialist (Junior),
+37,Młodszy Specjalista ds. Analiz,młodszy specjalista (Junior),
+38,Supply Chain Analyst/Supply Chain Admin,specialist (Mid / Regular),
+39,Senior Consultant / Senior Analyst,"specialist (Mid / Regular), senior specialist (Senior)",
+40,Application Support Analyst,specialist (Mid / Regular),SharePoint
+41,Brygadzista,kierownik / koordynator,
+42,Młodszy Specjalista ds. Analiz Chemicznych,"specjalista (Mid / Regular), młodszy specjalista (Junior)",
+43,Młodszy Specjalista ds. Obrotu Towarowego,"specjalista (Mid / Regular), młodszy specjalista (Junior)",
+44,Senior Data Scientist,senior specialist (Senior),Python
+44,Senior Data Scientist,senior specialist (Senior),SQL
+44,Senior Data Scientist,senior specialist (Senior),git
+44,Senior Data Scientist,senior specialist (Senior),Docker
+44,Senior Data Scientist,senior specialist (Senior),C#
+44,Senior Data Scientist,senior specialist (Senior),Java
+44,Senior Data Scientist,senior specialist (Senior),C
+44,Senior Data Scientist,senior specialist (Senior),C++
+44,Senior Data Scientist,senior specialist (Senior),Scala
+45,Junior Sales & Project Coordinator,"specjalista (Mid / Regular), młodszy specjalista (Junior)",
+46,Data Engineer,starszy specjalista (Senior),Python
+46,Data Engineer,starszy specjalista (Senior),SQL
+46,Data Engineer,starszy specjalista (Senior),DWH
+46,Data Engineer,starszy specjalista (Senior),AWS
+46,Data Engineer,starszy specjalista (Senior),Tableau
+47,Data Engineer,senior specialist (Senior),Microsoft Azure
+47,Data Engineer,senior specialist (Senior),Azure DevOps
+47,Data Engineer,senior specialist (Senior),SQL
+47,Data Engineer,senior specialist (Senior),Apache Spark
+47,Data Engineer,senior specialist (Senior),Python
+48,Datasphere Engineer (Data Engineer),"specialist (Mid / Regular), senior specialist (Senior)",Python
+48,Datasphere Engineer (Data Engineer),"specialist (Mid / Regular), senior specialist (Senior)",SAP Datasphere
+48,Datasphere Engineer (Data Engineer),"specialist (Mid / Regular), senior specialist (Senior)",Snowflake
+48,Datasphere Engineer (Data Engineer),"specialist (Mid / Regular), senior specialist (Senior)",Azure Databricks
+48,Datasphere Engineer (Data Engineer),"specialist (Mid / Regular), senior specialist (Senior)",BigQuery
+49,Data engineer,specjalista (Mid / Regular),Azure Data Factory
+49,Data engineer,specjalista (Mid / Regular),Azure Databricks
+49,Data engineer,specjalista (Mid / Regular),Azure Synapse Analytics
+49,Data engineer,specjalista (Mid / Regular),Azure Data Lake Storage
+49,Data engineer,specjalista (Mid / Regular),Azure SQL Database
+49,Data engineer,specjalista (Mid / Regular),Java
+49,Data engineer,specjalista (Mid / Regular),Python
+49,Data engineer,specjalista (Mid / Regular),Scala
+49,Data engineer,specjalista (Mid / Regular),SQL
+49,Data engineer,specjalista (Mid / Regular),NoSQL
+50,Dyrektor hotelu,dyrektor,
+51,Specjalista / Specjalistka ds. Automatyki i Elektroniki,specjalista (Mid / Regular),
+52,Pracownik / Pracowniczka Działu Obsługi Klienta i Relacji,"specjalista (Mid / Regular), młodszy specjalista (Junior)",
+53,Koordynator działu sprzedaży,kierownik / koordynator,
+54,Analityk / Analityczka,specjalista (Mid / Regular),
+55,Rooms Division Manager (Kierownik ds. Hotelowych),menedżer,
+56,BI Team Leader,kierownik / koordynator,CI/CD
+57,Analityk danych,specjalista (Mid / Regular),
+58,Analityk biznesowy,"starszy specjalista (Senior), ekspert",

@@ -1,4 +1,5 @@
 from selenium import webdriver
+import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
@@ -10,10 +11,8 @@ def search_job(job_name):
     
     #maximize window, else does not work
     driver.maximize_window()
-    
+
     #deal with popups
-    span = driver.find_element(By.CSS_SELECTOR, '[class="popup_p1c6glb0"]')
-    span.click()
     cookies = driver.find_element(By.CSS_SELECTOR, '[data-test="button-submitCookie"]')
     cookies.click() #action.click(cookies)
 
