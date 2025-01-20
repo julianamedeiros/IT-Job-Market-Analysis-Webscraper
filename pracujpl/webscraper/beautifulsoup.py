@@ -15,11 +15,16 @@ def scan(offer_list):
         #to find level
         div = offer_soup.find('li', {'data-test' : 'sections-benefit-employment-type-name'})
         level = div.getText()
-        print(level)
 
         #to find technologies
-        p_tags = offer_soup.find_all('p', {'class' : 'n1bzavn5'})
-        technologies = [i.getText() for i in p_tags]
+        technologies = []
+        tech_list = offer_soup.find_all('span', {'class' : '_chip_ga1vw_1 _chip--light_ga1vw_1 _chip--large_ga1vw_1 _chip--full-corner_ga1vw_1 ez2hkn'})
+        #print(tech_list)
+        for i in tech_list:
+            tech = i.get_text()
+            technologies.append(tech)
+
+
 
         #make a dictionary for the offer
         job_dict = {

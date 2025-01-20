@@ -1,7 +1,7 @@
-from package import webcrawler
-from package import urlparsing
-from package import webscrapper
-from package import dataprocessing
+from pracujpl import webcrawler
+from pracujpl import urlparsing
+from pracujpl import webscrapper
+from pracujpl import dataprocessing
 
 def main():
     url = webcrawler.search_job('data analyst')

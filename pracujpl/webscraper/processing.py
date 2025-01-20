@@ -9,6 +9,7 @@ def star_scheme(dictionary):
 
     #export to CSV files
     df.to_csv('df.csv', index=False)  
+    print('file ready!')
 
    
 
