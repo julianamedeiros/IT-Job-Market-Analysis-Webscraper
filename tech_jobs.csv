@@ -1,0 +1,113 @@
+offer_id,job_title,level,technologies
+0,Senior Data Engineer,Senior,SQL
+0,Senior Data Engineer,Senior,Airflow
+0,Senior Data Engineer,Senior,Python
+1,Business Analyst,Mid,
+2,Business Analyst,Senior,Jira
+2,Business Analyst,Senior,Confluence
+2,Business Analyst,Senior, Office
+3,Analityk biznesowo-systemowy,Mid,UML
+3,Analityk biznesowo-systemowy,Mid,SQL
+3,Analityk biznesowo-systemowy,Mid,BPMN
+3,Analityk biznesowo-systemowy,Mid,Jira
+4,Business Analyst,Mid,SQL
+4,Business Analyst,Mid,Murex
+4,Business Analyst,Mid,FX
+5,Python / Data Engineer with Azure,Senior,Python
+5,Python / Data Engineer with Azure,Senior,Azure DevOps
+5,Python / Data Engineer with Azure,Senior,MongoDB
+5,Python / Data Engineer with Azure,Senior,Docker
+5,Python / Data Engineer with Azure,Senior,Kubernetes
+5,Python / Data Engineer with Azure,Senior,GitLab
+5,Python / Data Engineer with Azure,Senior,azure data lake
+6,SAS Data Scientist,Mid,SAS
+6,SAS Data Scientist,Mid,SQL
+6,SAS Data Scientist,Mid, Excel
+7,Analityk danych w zespole marketingu,Senior,
+8,Treasury Data Analyst,Senior,Data Analysis
+8,Treasury Data Analyst,Senior,Banking
+8,Treasury Data Analyst,Senior,English
+9,Analityk Danych – Staż (Dział Kontrolingu),Internship,
+10,Privacy Data Analyst - Fluent German,Junior,
+11,Data Analyst (UK CMB Transformation),Mid,Jira
+11,Data Analyst (UK CMB Transformation),Mid,Confluence
+12,HR Data Analyst,Mid,
+13,Analityk Danych – Płatowce / Reliability & Data Analysis Engineer,Mid,
+14,Specjalista ds. danych e-commerce,Mid,
+15,Specjalista ds. Danych Podstawowych,Mid,
+16,Specjalista ds. Danych Podstawowych (Master Data),Senior,
+17,Młodszy specjalista ds. danych podstawowych SAP,Junior,
+18,Specjalista/Specjalistka ds. analizy i baz danych,Mid,
+19,Business Analyst (Data Oriented),Mid,Jira
+19,Business Analyst (Data Oriented),Mid,Confluence
+20,Data Warehouse Analyst,Senior,
+21,Senior Finance Analyst,Mid,
+22,Senior Finance Analyst,Mid,
+23,BACoE Senior Finance Analyst,Senior,
+24,Senior Power BI Analyst & Developer,Senior, Power BI
+24,Senior Power BI Analyst & Developer,Senior,SQL
+24,Senior Power BI Analyst & Developer,Senior,Azure Synapse Analytics
+24,Senior Power BI Analyst & Developer,Senior,Azure Data Factory
+25,Specjalistka/ Specjalista ds. Dokumentacji i Analizy Danych,Mid,
+26,"Senior Analyst, Finance Controller",Senior,
+27,Analityk Biznesowy,Mid,
+28,Analityk Biznesowy,Mid,
+29,Analityk biznesowy,Mid, Power BI
+29,Analityk biznesowy,Mid, Excel
+30,Specjalista / Specjalistka ds. analiz,Mid,
+31,Analityk Cenowy,Mid,
+32,Analityk HR,Mid,
+33,Specjalista ds. Analiz,Mid,
+34,Specjalista ds. analiz RGM,Senior,
+35,Pricing Analyst,"director, team manager",
+36,Finance Senior Analyst,Mid,
+37,Młodszy Analityk - Consulting,Junior,
+38,Operations Analyst,Mid,
+39,Specjalista ds. systemów płatności - Analityk biznesowy,Mid,XML
+40,Business Analyst,Senior,
+41,Senior Data Scientist,Senior,ETL
+41,Senior Data Scientist,Senior,Python
+42,Specjalista / Specjalistka ds. Analityki i Optymalizacji Operacyjnej,Mid,
+43,Senior Analyst - Global Cost & Inventory Consolidations,Senior,
+44,Analityk ds. planowania i alokacji zapasów,Mid,
+45,Senior Data Engineer,Senior, Azure
+45,Senior Data Engineer,Senior,Google Cloud Platform
+45,Senior Data Engineer,Senior,AWS
+45,Senior Data Engineer,Senior,Python
+45,Senior Data Engineer,Senior,SQL
+46,Analyst,assistant,
+47,System - Business Analyst,Mid,UML
+47,System - Business Analyst,Mid,BPMN
+47,System - Business Analyst,Mid, Kafka
+47,System - Business Analyst,Mid,SQL
+47,System - Business Analyst,Mid,Splunk
+48,Market Risk Reporting Senior Analyst (Legal Entity Reporting) - VP,Senior,Tableau
+48,Market Risk Reporting Senior Analyst (Legal Entity Reporting) - VP,Senior,Python
+49,Analityk ds. Reasekuracji,Senior,
+50,Senior Business Analyst / Functional Lead,Senior,Jira
+50,Senior Business Analyst / Functional Lead,Senior,Confluence
+50,Senior Business Analyst / Functional Lead,Senior,Kafka Streams
+50,Senior Business Analyst / Functional Lead,Senior,Java
+50,Senior Business Analyst / Functional Lead,Senior,MongoDB
+50,Senior Business Analyst / Functional Lead,Senior,Elasticsearch
+51,Analityczka / Analityk kampanii sprzedażowych,Mid,
+52,Analityk Danych,Mid,SQL
+52,Analityk Danych,Mid,UML
+52,Analityk Danych,Mid,Enterprise Architect
+53,Business Analyst,Mid,SAP
+53,Business Analyst,Mid,Business Technology Platform
+54,Data Analyst in COO Office,Mid,SQL
+55,Systems Business Analyst II,Mid,Jira
+55,Systems Business Analyst II,Mid,Confluence
+55,Systems Business Analyst II,Mid,SQL
+56,Senior Data Engineer,Senior, Azure
+56,Senior Data Engineer,Senior,Google Cloud Platform
+56,Senior Data Engineer,Senior,AWS
+56,Senior Data Engineer,Senior,Python
+56,Senior Data Engineer,Senior,SQL
+57,Lead Business Intelligence (Power BI) Engineer,"manager / supervisor, team manager", Power BI
+57,Lead Business Intelligence (Power BI) Engineer,"manager / supervisor, team manager",DAX
+57,Lead Business Intelligence (Power BI) Engineer,"manager / supervisor, team manager",M
+57,Lead Business Intelligence (Power BI) Engineer,"manager / supervisor, team manager",SQL
+57,Lead Business Intelligence (Power BI) Engineer,"manager / supervisor, team manager", SQL Server
+57,Lead Business Intelligence (Power BI) Engineer,"manager / supervisor, team manager",PostgreSQL
