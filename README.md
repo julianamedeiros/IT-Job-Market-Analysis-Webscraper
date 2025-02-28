@@ -1,3 +1,61 @@
-The goal of this project was to establish the most required skills and technologies for the job of a junior Data Analyst. Since I'm new to the area, I figured the best way of becoming familiar with the professional requirements would be to analyze what the companies were expecting and requiring in their job offers. The idea was to create a program that would access a website of job offers (the chosen one was pracuj.pl) and scrape all the requirements from the most recent offers.
+# 📊 Web Scraper & EDA of the Job Market for Data Analysis   
 
-The project’s directory contains four files (besides the main.py) that represent four steps for the data extraction and processing. For the webcrawler, I used the Selenium library; for HTML scraping, I used Beautifulsoup. Data processing included transforming the data to a pandas dataframe following a star schema with dimentional and fact tables. The created dataframes are loaded in csv files to be later used in Power BI. In the directory, you will also find a Power BI file containing a simple report on the most required technologies for the role of data analyst.
+## Overview  
+This project **scrapes job postings from Pracuj.pl** to analyze the **most in-demand technologies** for a given role.  
+For this analysis, I focused on **Data Analyst** positions, but **you can customize it for any job title** by modifying the script!  
+
+The project includes:  
+:heavy_check_mark: **Web scraping with Python, Selenium & BeautifulSoup** 🕵️‍♂️  
+:heavy_check_mark: **Data cleaning & analysis with Pandas** 📊  
+:heavy_check_mark: **An interactive Power BI report** 📈  
+
+---
+
+## How It Works  
+
+### **Web Scraping**   
+- The script extracts **job titles, required experience levels, and technologies** from job postings.  
+- It **iterates through job offer URLs**, collecting relevant details.  
+- Data is **cleaned and stored in a structured format** for analysis.  
+
+### **Data Analysis (EDA)**  
+- Cleans & processes the scraped data using **Pandas**.  
+- Identifies **the most in-demand technologies** for Data Analysts.  
+- Analyzes **job levels (junior/mid/senior)**.  
+- Checks **missing data & distributions**.  
+
+### **Power BI Report**  
+- Visualizes trends in tech demand across job levels.  
+- Provides insights into required skills in the job market.  
+- Can be **adapted for other roles**!  
+
+---
+
+## 📂 Project Structure  
+
+```
+📁 IT-Job-Market-Analysis-Webscraper
+│── 📄 README.md                            # Project documentation  
+│── 📄 pracujpl                             # Folder refered to the scraped job board
+│────📄 scraper.py                          # Web scraping script (Selenium & BeautifulSoup)  
+│── 📄 EDA_job_market_Data_Analysts.pbix    # Power BI report  
+│── 📄 EDA_job_market_Data_Analysts.pdf     # Summary of findings with visuals  
+│── 📄 dataanalysis.py                      # Data cleaning & Exploratory Data Analysis (pandas)
+│── 📄 tech_jobs.csv                        # File for scraped job data (CSV)  
+```
+
+---
+
+## 🔍 Key Insights  
+
+📊 **Top 5 Most In-Demand Technologies for Data Analysts**  
+1. **SQL** 
+2. **Jira**
+3. **Python**   
+4. **Confluence**
+5. **Power BI**   
+
+🎯 **Senior roles are more in demand.**  
+
+---
+
